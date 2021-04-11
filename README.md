@@ -1,2 +1,6 @@
-# spring-mysql-redis
-Spring Boot, Mysql, Redis, Lombok
+# Spring Boot Application
+
+- Mysql
+- Redis
+- Lombok
+- AOP for log
