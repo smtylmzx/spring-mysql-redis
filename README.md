@@ -2,6 +2,6 @@
 
 - [x] Lombok
 - [x] Mysql
-- [ ] Redis
+- [ ] Redis for cache
 - [ ] AOP for log
 - [ ] Security
