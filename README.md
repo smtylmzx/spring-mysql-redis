@@ -1,6 +1,6 @@
 # Spring Boot Application
 
-- Mysql
-- Redis
-- Lombok
-- AOP for log
+- [x] Mysql
+- [ ] Redis
+- [ ] Lombok
+- [ ] AOP for log
